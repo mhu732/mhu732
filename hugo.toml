@@ -1,0 +1,5 @@
+baseURL = 'https://mhu732.github.io/'
+locale = 'en-us'
+title = 'My Website'
+theme = 'ananke'
+params.description = 'This is my personal website.'
